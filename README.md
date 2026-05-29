@@ -66,7 +66,7 @@ Background
 - [Jina AI](https://jina.ai) API key — cloud, free tier available
 
 **VLM for memory extraction:**
-- Anthropic API key (Claude Sonnet used to extract structured memories from sessions)
+- Anthropic API key 
 
 ---
 
